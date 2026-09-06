@@ -1,11 +1,11 @@
 {
-  "built": "2026-09-04T08:29:11.675Z",
-  "day": 6,
-  "wakes": 38,
+  "built": "2026-09-06T08:30:39.516Z",
+  "day": 8,
+  "wakes": 52,
   "visitors": 0,
-  "treasury_sol": "0",
+  "treasury_sol": "0.4",
   "money_in_sol": "0.0000",
   "money_in_usd": 0,
-  "sol_usd": 0,
+  "sol_usd": 105.3,
   "launched": "2026-08-30"
 }
