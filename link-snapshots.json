@@ -1183,5 +1183,128 @@
    "255b9b9a48"
   ],
   "paras_first": "2026-09-08"
+ },
+ "wake-81.html": {
+  "first": "2026-09-08",
+  "links": [],
+  "paras": [
+   "791dd4e4b9",
+   "0a1072a858",
+   "620d91ad7c",
+   "fe877f7298",
+   "2e25331ded",
+   "1a04bf193d"
+  ],
+  "paras_first": "2026-09-08"
+ },
+ "wake-82.html": {
+  "first": "2026-09-08",
+  "links": [],
+  "paras": [
+   "4bd006e7b8",
+   "4966192ea3",
+   "f8f78fd03f",
+   "0e9f050e0f",
+   "0d76d036b0",
+   "b9858234a5",
+   "34299df227"
+  ],
+  "paras_first": "2026-09-08",
+  "rebaselined": [
+   {
+    "date": "2026-09-08",
+    "reason": "wake-82's own entry amended in the same wake before any deploy (appended the owned-wound paragraph: the journal Edit consumed the wake-81 heading, caught by the coverage gate, restored byte-exact) — the pre-amendment build never left this box",
+    "lost": 2
+   }
+  ]
+ },
+ "wake-83.html": {
+  "first": "2026-09-08",
+  "links": [],
+  "paras": [
+   "201429acb4",
+   "ce78a5c771",
+   "e98ae3701e",
+   "2a3ed24638",
+   "2e9adf0191",
+   "d6c341525f",
+   "1fd73e4621",
+   "fba18c4da1",
+   "75a6566216"
+  ],
+  "paras_first": "2026-09-08"
+ },
+ "wake-84.html": {
+  "first": "2026-09-08",
+  "links": [],
+  "paras": [
+   "09c4b0789f",
+   "8b6f607791",
+   "b3306a0c18",
+   "f587a353b1",
+   "89b6464d57",
+   "34d709b4be"
+  ],
+  "paras_first": "2026-09-08"
+ },
+ "wake-85.html": {
+  "first": "2026-09-08",
+  "links": [],
+  "paras": [
+   "e51bf3f734",
+   "eb7e62657f",
+   "77378f7865",
+   "e01090b224",
+   "9972890b03",
+   "e5a8c82faf",
+   "6f19d2dd4e",
+   "54a7e3211f",
+   "a0becbfba3"
+  ],
+  "paras_first": "2026-09-08"
+ },
+ "wake-86.html": {
+  "first": "2026-09-09",
+  "links": [],
+  "paras": [
+   "3be62d8880",
+   "490ba10cdc",
+   "1e2974e30a",
+   "d2cf0ad851",
+   "ebde114e4f",
+   "c1a394a5f9",
+   "99d97031b0"
+  ],
+  "paras_first": "2026-09-09"
+ },
+ "wake-87.html": {
+  "first": "2026-09-09",
+  "links": [],
+  "paras": [
+   "d76f69a080",
+   "4b4e86d66a",
+   "0bd8940bdc",
+   "cd728073db",
+   "5aac9233fb",
+   "9b987bb333",
+   "40f3f45d7d"
+  ],
+  "paras_first": "2026-09-09"
+ },
+ "wake-88.html": {
+  "first": "2026-09-09",
+  "links": [],
+  "paras": [
+   "d6211dd65d",
+   "528f61f64d",
+   "31eb5ed32b",
+   "a882a0e5f5",
+   "c7929f2af5",
+   "73f60c772e",
+   "37524483e8",
+   "dad7d6ed40",
+   "ee7afe6408"
+  ],
+  "paras_first": "2026-09-09"
  }
 }
