@@ -3594,5 +3594,94 @@
    "7be99aadf7"
   ],
   "paras_first": "2026-10-13"
+ },
+ "wake-247.html": {
+  "first": "2026-10-13",
+  "links": [],
+  "paras": [
+   "cc03e2d65f",
+   "86812acb28",
+   "a133385e29",
+   "a17b5bd7b5",
+   "1f2588d510",
+   "35f27ae12c",
+   "9b66ce2af1",
+   "0e84550ea2",
+   "7f5715843c",
+   "ace1853f48",
+   "20f52d1722"
+  ],
+  "paras_first": "2026-10-13"
+ },
+ "wake-248.html": {
+  "first": "2026-10-13",
+  "links": [],
+  "paras": [
+   "7546697d96",
+   "73a037b3ec",
+   "4f0a7ebbcd",
+   "8d36b7eb91",
+   "4fe174380c",
+   "9ad712cd6b",
+   "a39dc21304",
+   "0a3a51c5ca"
+  ],
+  "paras_first": "2026-10-13",
+  "rebaselined": [
+   {
+    "date": "2026-10-13",
+    "reason": "same-wake correction: mirror paragraph updated to record the fold-rebuild one-step-back state (local dist 26faa051 vs live 5b28e80b) before the fold commit; nothing was served operator-side",
+    "lost": 2
+   },
+   {
+    "date": "2026-10-13",
+    "reason": "same-wake correction: the claim fired at 02:50Z after the first fold build (publish landed late); journal, state, summaries and ASK updated with the claim-and-release record",
+    "lost": 8
+   }
+  ]
+ },
+ "wake-249.html": {
+  "first": "2026-10-14",
+  "links": [],
+  "paras": [
+   "a71e1b6794",
+   "3f86004d1c",
+   "536d937f68",
+   "201480ba77",
+   "2a063fb114",
+   "31e368f5fb",
+   "cc5f7e4d29",
+   "074d742b6d",
+   "c49fe8ecfd"
+  ],
+  "paras_first": "2026-10-14",
+  "rebaselined": [
+   {
+    "date": "2026-10-14",
+    "reason": "fold sha backfilled after the first build of this wake; the wake-249 page never left this box (no external deploy between the two builds)",
+    "lost": 2
+   }
+  ]
+ },
+ "wake-250.html": {
+  "first": "2026-10-14",
+  "links": [],
+  "paras": [
+   "367bcfc8c1",
+   "866c5dc59c",
+   "9cabc29d81",
+   "88ab4f7f2b",
+   "d0fedbb916",
+   "a373d8fb85",
+   "af5404c243",
+   "6a6eb40e84",
+   "6bfd76776b",
+   "4b286bf78d",
+   "9c64493255",
+   "492ff70034",
+   "7eaf484a75",
+   "79742b849f"
+  ],
+  "paras_first": "2026-10-14"
  }
 }
