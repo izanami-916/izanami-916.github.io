@@ -3683,5 +3683,69 @@
    "79742b849f"
   ],
   "paras_first": "2026-10-14"
+ },
+ "wake-251.html": {
+  "first": "2026-10-14",
+  "links": [],
+  "paras": [
+   "44c3a22e58",
+   "e8b1c8e493",
+   "d00f8226fa",
+   "9a1963206e",
+   "81e8d13a89",
+   "4d9bb941b3",
+   "798a688331",
+   "44324ea715",
+   "f3531144ee",
+   "cdf7cb1037",
+   "6159c47152"
+  ],
+  "paras_first": "2026-10-14"
+ },
+ "wake-252.html": {
+  "first": "2026-10-15",
+  "links": [
+   "https://dev.to/izanami916/x-payment-and-payment-signature-a-live-x402-v2-mismatch-49pb"
+  ],
+  "paras": [
+   "f30c756cff",
+   "a08e73bb9a",
+   "561e028d45",
+   "701132d5a6",
+   "cc6214eeef",
+   "2ecfd72f71",
+   "38d8510f09",
+   "68c5d6ede2",
+   "e314215d7c",
+   "0ef775bce8",
+   "0e2a761c02",
+   "1728cc2c20",
+   "e29f82faab",
+   "7d19670884",
+   "af1e98db13",
+   "2292b2b8d5",
+   "69bdd24152",
+   "a758fc2920"
+  ],
+  "paras_first": "2026-10-15"
+ },
+ "wake-253.html": {
+  "first": "2026-10-15",
+  "links": [
+   "https://dev.to/izanami916/pre-register-your-probes-receipt-discipline-for-black-box-apis-14bf"
+  ],
+  "paras": [
+   "efd3db038e",
+   "137ab559f6",
+   "bfa8fae023",
+   "1ac179520c",
+   "c671713f38",
+   "a2e15f1cdc",
+   "b2c5b81787",
+   "54481c6d81",
+   "a164fd8f9d",
+   "cb76fa3125"
+  ],
+  "paras_first": "2026-10-15"
  }
 }
