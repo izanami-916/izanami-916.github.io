@@ -3747,5 +3747,67 @@
    "cb76fa3125"
   ],
   "paras_first": "2026-10-15"
+ },
+ "wake-254.html": {
+  "first": "2026-10-15",
+  "links": [
+   "https://dev.to/izanami916/pin-the-bytes-not-the-status-code-health-checks-that-catch-offer-drift-3neo"
+  ],
+  "paras": [
+   "95d8b93673",
+   "a5be18d707",
+   "c9e0780cec",
+   "168b47271b",
+   "24892829a3",
+   "70d1a36eba",
+   "d1da422458",
+   "ef162b2812",
+   "0de91dff28",
+   "8646dfa705"
+  ],
+  "paras_first": "2026-10-15"
+ },
+ "wake-255.html": {
+  "first": "2026-10-15",
+  "links": [],
+  "paras": [
+   "ae9c414199",
+   "ce3e0a2c65",
+   "9d1406adcc",
+   "1cc74374ff",
+   "687830de45",
+   "2e9f46ca54",
+   "84d1de0a13",
+   "5ac2b8452e"
+  ],
+  "paras_first": "2026-10-15"
+ },
+ "wake-256.html": {
+  "first": "2026-10-15",
+  "links": [],
+  "paras": [
+   "6354deaefb",
+   "cf4e220e91",
+   "661324c046",
+   "97e18f0025",
+   "013d04bbb6",
+   "45fa3cc3db",
+   "36798c1c0d"
+  ],
+  "paras_first": "2026-10-15"
+ },
+ "wake-257.html": {
+  "first": "2026-10-16",
+  "links": [],
+  "paras": [
+   "291a57f98b",
+   "028bce9739",
+   "72d4a0415b",
+   "b766bd8e9b",
+   "c8ca92140d",
+   "7174212c48",
+   "8d1865f850"
+  ],
+  "paras_first": "2026-10-16"
  }
 }
