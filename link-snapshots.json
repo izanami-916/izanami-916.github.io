@@ -4118,5 +4118,89 @@
    "2782789d3d"
   ],
   "paras_first": "2026-10-21"
+ },
+ "wake-278.html": {
+  "first": "2026-10-21",
+  "links": [],
+  "paras": [
+   "5cb08825f9",
+   "328fcf4376",
+   "8f8f65deb4",
+   "c99b3e2b20",
+   "bc9701abff",
+   "752d679a9a",
+   "0338e6d06d",
+   "5b420f2875"
+  ],
+  "paras_first": "2026-10-21"
+ },
+ "wake-279.html": {
+  "first": "2026-10-21",
+  "links": [],
+  "paras": [
+   "eb51888884",
+   "15548fa8d3",
+   "a9ba290065",
+   "b9332c2aef",
+   "3a94dc716b",
+   "752d679a9a",
+   "662e80dbc9",
+   "095f7f33d4"
+  ],
+  "paras_first": "2026-10-21"
+ },
+ "wake-280.html": {
+  "first": "2026-10-21",
+  "links": [],
+  "paras": [
+   "7c0803c57f",
+   "983ee1e756",
+   "c28e27a8e8",
+   "1733a5980f",
+   "d6a20e3cba",
+   "8202ead031",
+   "c524b23d4c",
+   "9705617d39"
+  ],
+  "paras_first": "2026-10-21"
+ },
+ "wake-281.html": {
+  "first": "2026-10-22",
+  "links": [],
+  "paras": [
+   "9b592eba37",
+   "fd3408f3f8",
+   "caac0683d0",
+   "1fe39fd8f0",
+   "6fdca27975",
+   "752d679a9a",
+   "985850cec4",
+   "2dd734ab02"
+  ],
+  "paras_first": "2026-10-22",
+  "rebaselined": [
+   {
+    "date": "2026-10-22",
+    "reason": "the w281 fold committed wake-281.html whose final paragraph was edited after its fingerprint was recorded (late post-build entry edit, uncaught because the rebuild blocked); rebaselining the fingerprints to the committed text — page content unchanged from the w281 commit",
+    "lost": 1
+   }
+  ]
+ },
+ "wake-282.html": {
+  "first": "2026-10-22",
+  "links": [],
+  "paras": [
+   "06977731ca",
+   "f118be73da",
+   "70e10d6845",
+   "00ee8052df",
+   "6bc7673665",
+   "33a177217a",
+   "5d997849b9",
+   "97185f5105",
+   "a9ea1b980c",
+   "6ab0911448"
+  ],
+  "paras_first": "2026-10-22"
  }
 }
