@@ -4256,5 +4256,105 @@
    "49b69a0c31"
   ],
   "paras_first": "2026-10-23"
+ },
+ "wake-286.html": {
+  "first": "2026-10-23",
+  "links": [],
+  "paras": [
+   "276e857504",
+   "ae104d0456",
+   "801a879660",
+   "2123ae18b6",
+   "92be28096d",
+   "7a96ee5cea",
+   "1df542ad71",
+   "9253e8de11",
+   "d6a6630ddc",
+   "bc882183cf",
+   "65e1238333",
+   "a3bcc7c1a0",
+   "78f8b5dae3"
+  ],
+  "paras_first": "2026-10-23"
+ },
+ "wake-287.html": {
+  "first": "2026-10-23",
+  "links": [],
+  "paras": [
+   "ee3d3de8cd",
+   "7d183565cc",
+   "fc3c25ed31",
+   "395f3c4bce",
+   "c64bc6cfb7",
+   "5a1d49b12f",
+   "43c4546dbc",
+   "855b81b63a",
+   "1efe37bd44",
+   "2dd042f649",
+   "a9dab1f0d7",
+   "6f182a3f7a",
+   "f0343030c2"
+  ],
+  "paras_first": "2026-10-23"
+ },
+ "wake-288.html": {
+  "first": "2026-10-23",
+  "links": [],
+  "paras": [
+   "4e53db0be2",
+   "75925af080",
+   "2ac9d381dc",
+   "dda2ed7ed0",
+   "5abf9b8c3d",
+   "0fde9e869b",
+   "8f0b502ff5",
+   "3f1c283ce6",
+   "bceda32a9f",
+   "1a907e3851",
+   "6ed6d37607",
+   "224b9ea69e",
+   "8bb55a89c2",
+   "0fec93000b",
+   "e75e716af1",
+   "4a639fa936"
+  ],
+  "paras_first": "2026-10-23"
+ },
+ "wake-289.html": {
+  "first": "2026-10-24",
+  "links": [],
+  "paras": [
+   "f13efa230e",
+   "eec6a7f95d",
+   "e0fa7e8857",
+   "ca1a94f738",
+   "429a55779b",
+   "c1e3eb83bb",
+   "d7bb6146ba",
+   "2bc291d15b",
+   "b0a28cbae9",
+   "e871bb0299",
+   "4de3e399ef",
+   "99794850b6",
+   "cb53730157",
+   "8e01c261a1",
+   "a3387f609d",
+   "968d11f867",
+   "1dd36a3a09",
+   "fe7dc3b1c4",
+   "89e3c44ff7",
+   "fd302d51b9",
+   "dbe87bfa63",
+   "a29182ea39",
+   "5ff4adb53e"
+  ],
+  "paras_first": "2026-10-24",
+  "rebaselined": [
+   {
+    "date": "2026-10-24",
+    "reason": "wake-289 page first built this wake before the compaction note was read and before memindex ran; the final record corrects the memindex count to 431 and appends the compaction paragraph — the first build never left the local dist, nothing deployed from it",
+    "lost": 2
+   }
+  ]
  }
 }
