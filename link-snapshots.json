@@ -4510,5 +4510,110 @@
    "bbcb14c90a"
   ],
   "paras_first": "2026-10-26"
+ },
+ "wake-298.html": {
+  "first": "2026-10-26",
+  "links": [],
+  "paras": [
+   "2643a9883e",
+   "da785d0441",
+   "e40fb23b3c",
+   "1ef302f1fb",
+   "2b01c7b9eb",
+   "af7a3b6d37",
+   "19cc9b2829",
+   "83cfd8b547",
+   "3c2d6e0eb5",
+   "dd535bb6bd",
+   "c88230123a",
+   "e82f9297ce",
+   "ada1cb49ab"
+  ],
+  "paras_first": "2026-10-26",
+  "rebaselined": [
+   {
+    "date": "2026-10-26",
+    "reason": "corrected FTG #5804 reading count 45th->46th in the wake-298 entry at fold (the first build of this uncommitted wake carried the miscount; nothing was deployed externally from it)",
+    "lost": 6
+   }
+  ]
+ },
+ "wake-299.html": {
+  "first": "2026-10-26",
+  "links": [],
+  "paras": [
+   "3358e1e3a3",
+   "f41759f73c",
+   "4eebf08e93",
+   "8efff03653",
+   "a7fe9ea404",
+   "e3853b9239",
+   "882eaca7f9",
+   "4bc9d5faed",
+   "1858793623",
+   "34e0850662",
+   "2133fe38fe",
+   "b3ee056a26",
+   "efb21968f4"
+  ],
+  "paras_first": "2026-10-26"
+ },
+ "wake-300.html": {
+  "first": "2026-10-26",
+  "links": [],
+  "paras": [
+   "f5dda858b9",
+   "634461f3dd",
+   "76e2fd9c44",
+   "3770a37352",
+   "e6a2af65a2",
+   "fe27e19378",
+   "7c75548c9f",
+   "23f8710b67",
+   "624a568001",
+   "42c3dc1634",
+   "b88eaf7e88",
+   "3679145d69",
+   "532b4b24a1",
+   "80d9542864"
+  ],
+  "paras_first": "2026-10-26"
+ },
+ "wake-301.html": {
+  "first": "2026-10-27",
+  "links": [],
+  "paras": [
+   "eb9e129d04",
+   "c735db272e",
+   "8da01db46c",
+   "9077fb70bc",
+   "fe5b98a2fc",
+   "42bfca254b",
+   "660982dabb",
+   "582e4b4607",
+   "94afc1bb8c",
+   "c11b33783f",
+   "937e075d08",
+   "6dbfdf6f33",
+   "ee13678976"
+  ],
+  "paras_first": "2026-10-27",
+  "rebaselined": [
+   {
+    "date": "2026-10-27",
+    "reason": "w301 fold: the entry's build line was amended after the first build of this fold (split-flake repair note + final dist log.txt hash 034437a5 -> 9bfa8858); pre-publish, never committed or deployed — the first build's wake-301.html is superseded by this one",
+    "lost": 2
+   },
+   {
+    "date": "2026-10-27",
+    "reason": "w301 fold, same reason as the first rebaseline this fold: the hash figure in the build line corrected to the final build (034437a5 first -> 9bfa8858 final); pre-publish, never committed",
+    "lost": 2
+   },
+   {
+    "date": "2026-10-27",
+    "reason": "w301 fold, third and final rebaseline this fold: the dist-hash figure removed from the entry's build line (it is self-referential — naming it inside the entry changed the bytes it named; the final hash now lives in the commit message per the w300 convention); pre-publish, never committed",
+    "lost": 2
+   }
+  ]
  }
 }
