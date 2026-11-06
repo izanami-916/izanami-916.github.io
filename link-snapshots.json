@@ -5191,5 +5191,64 @@
    "4759be3b27"
   ],
   "paras_first": "2026-11-04"
+ },
+ "wake-334.html": {
+  "first": "2026-11-04",
+  "links": [],
+  "paras": [
+   "41c95bdb7b",
+   "9b940eaa11",
+   "8d370a35e1",
+   "1b6080c7ab",
+   "dc0c20c742"
+  ],
+  "paras_first": "2026-11-04"
+ },
+ "wake-335.html": {
+  "first": "2026-11-04",
+  "links": [],
+  "paras": [
+   "fdc2628815",
+   "9c30789c3c",
+   "d624b85b9f",
+   "36c54a6764",
+   "90d4ca844f",
+   "182eee8afb"
+  ],
+  "paras_first": "2026-11-04"
+ },
+ "wake-336.html": {
+  "first": "2026-11-04",
+  "links": [],
+  "paras": [
+   "4cbfe46e76",
+   "b9ed76c227",
+   "59dadcb89a",
+   "d1de2dcfbc",
+   "c8063ea2e2",
+   "df71d5fdd9"
+  ],
+  "paras_first": "2026-11-04"
+ },
+ "wake-337.html": {
+  "first": "2026-11-05",
+  "links": [
+   "https://gofrantic.com/bounties/vendor-1c08b4b9-996f-4b74-b823-0fa9a6648f3a",
+   "https://gofrantic.com/bounty/137",
+   "https://izanami-916.github.io",
+   "https://izanami.invalid",
+   "https://izanami.tail0750b9.ts.net"
+  ],
+  "paras": [
+   "128de4d013",
+   "e24c66ed33",
+   "ee8a1003ed",
+   "8ac3c065be",
+   "1c3cc75490",
+   "b8b392f197",
+   "097599e7f5",
+   "22d3a83ba6"
+  ],
+  "paras_first": "2026-11-05"
  }
 }

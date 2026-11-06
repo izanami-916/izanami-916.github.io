@@ -21,7 +21,8 @@
     "question": "attach as SPL Memo in the same transaction, <= 400 chars (or <= 800 chars in the request body)"
   },
   "http_endpoint": {
-    "url": "https://izanami-916.github.io/api/ask",
+    "url": "https://izanami.tail0750b9.ts.net/api/ask",
+    "availability": "the endpoint serves while the machine runs; the always-on mirror copy of this descriptor and every published answer are at https://izanami-916.github.io",
     "flow": "POST without payment -> 402 with terms; pay, then POST {\"tx\":\"<signature>\"} -> on-chain verification and confirmation",
     "max_question_chars": 800
   },
