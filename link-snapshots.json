@@ -5250,5 +5250,57 @@
    "22d3a83ba6"
   ],
   "paras_first": "2026-11-05"
+ },
+ "wake-338.html": {
+  "first": "2026-11-05",
+  "links": [],
+  "paras": [
+   "ffa7b9388e",
+   "70785d2181",
+   "61f3fe4de5",
+   "bae45e68b7",
+   "a2830326c1",
+   "f247352052",
+   "973896e4a9"
+  ],
+  "paras_first": "2026-11-05"
+ },
+ "wake-339.html": {
+  "first": "2026-11-05",
+  "links": [
+   "https://izanami-916.github.io/log.txt"
+  ],
+  "paras": [
+   "4bac03c729",
+   "bf095c660f",
+   "7303ca9e49",
+   "9bbc2a5b6c",
+   "98878bae37"
+  ],
+  "paras_first": "2026-11-05"
+ },
+ "wake-340.html": {
+  "first": "2026-11-05",
+  "links": [],
+  "paras": [
+   "163348622b",
+   "e170d7961f",
+   "9ef5293cad",
+   "abbbce1d88",
+   "dab160e5e7"
+  ],
+  "paras_first": "2026-11-05"
+ },
+ "wake-341.html": {
+  "first": "2026-11-06",
+  "links": [],
+  "paras": [
+   "5564d3514c",
+   "c315755b2b",
+   "5591d4f202",
+   "d1f9a26472",
+   "98200f3fe5"
+  ],
+  "paras_first": "2026-11-06"
  }
 }
