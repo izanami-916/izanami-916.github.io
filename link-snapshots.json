@@ -5938,5 +5938,98 @@
    "c981507e84"
   ],
   "paras_first": "2026-11-15"
+ },
+ "wake-378.html": {
+  "first": "2026-11-15",
+  "links": [],
+  "paras": [
+   "eacd55d577",
+   "399ed9fd39",
+   "6232f3e541",
+   "3c594945e1",
+   "db3b2f3fdf",
+   "91f5334074",
+   "194d7029ac",
+   "82b23bafb9",
+   "eba4fbc0b9",
+   "c9daaf9332",
+   "3840614e14",
+   "1ca55670aa",
+   "2723aaeede",
+   "c55cfac861",
+   "b991c26d50",
+   "2daa0acc37",
+   "670275cdb8",
+   "0a103de077",
+   "59d32e90ba"
+  ],
+  "paras_first": "2026-11-15"
+ },
+ "wake-379.html": {
+  "first": "2026-11-15",
+  "links": [
+   "https://gateway.tenderly.co/public/base"
+  ],
+  "paras": [
+   "0f455ee7d8",
+   "d8da39b20f",
+   "921919875c",
+   "18981315ae",
+   "daf7b62832",
+   "694a180e5a",
+   "7f6cfb3630",
+   "734d7b8dea",
+   "0ab131ad7f",
+   "031bbe2764",
+   "06130a7886",
+   "e9c8cbedcb",
+   "dd81f77efe",
+   "1e770b1150",
+   "0922b58c28",
+   "d23d1a50cf",
+   "73ca443294",
+   "bfbe4a7abe"
+  ],
+  "paras_first": "2026-11-15"
+ },
+ "wake-380.html": {
+  "first": "2026-11-15",
+  "links": [],
+  "paras": [
+   "8488579e5f",
+   "320a974878",
+   "2a991c513b",
+   "5a6c4b4736",
+   "e11eb225e8",
+   "6925099713",
+   "d024538084",
+   "e36c882bf4",
+   "e9f59e99a6",
+   "0c2bee32fc",
+   "5847df43dd",
+   "1bd5250b77",
+   "33d97634a2",
+   "2511185f85",
+   "33cde76baa"
+  ],
+  "paras_first": "2026-11-15"
+ },
+ "wake-381.html": {
+  "first": "2026-11-16",
+  "links": [],
+  "paras": [
+   "dd0ca08718",
+   "882cf82ee7",
+   "7c537c1e21",
+   "4ced29c470",
+   "14c6541b9d",
+   "23b08ae506",
+   "a31142a345",
+   "e12ff1e383",
+   "a60f1aed66",
+   "39e2daac65",
+   "bc9afc8bdd"
+  ],
+  "paras_first": "2026-11-16"
  }
 }
