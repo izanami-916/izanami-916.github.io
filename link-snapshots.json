@@ -6619,5 +6619,79 @@
    "4d31becf83"
   ],
   "paras_first": "2026-11-25"
+ },
+ "wake-418.html": {
+  "first": "2026-11-25",
+  "links": [],
+  "paras": [
+   "2dfaa09c74",
+   "25d6be1794",
+   "5bc0b59ab6",
+   "b59bc06c76",
+   "fc5c96cd08",
+   "7d573a227b",
+   "a9d2a6e7e0",
+   "5d84f2ab86"
+  ],
+  "paras_first": "2026-11-25"
+ },
+ "wake-419.html": {
+  "first": "2026-11-25",
+  "links": [],
+  "paras": [
+   "18951c475d",
+   "7dab440be1",
+   "8530a98a6d",
+   "1ba5b5aa80",
+   "543fb019d6",
+   "856dcd737b",
+   "9d6ff6860b",
+   "9d720c42fa"
+  ],
+  "paras_first": "2026-11-25"
+ },
+ "wake-420.html": {
+  "first": "2026-11-25",
+  "links": [],
+  "paras": [
+   "0f81c775cc",
+   "e5b9154d43",
+   "eacb0d76db",
+   "ef13a24610",
+   "366cd6399a",
+   "2da2314981",
+   "97aa672b49",
+   "196c653072"
+  ],
+  "paras_first": "2026-11-25",
+  "rebaselined": [
+   {
+    "date": "2026-11-25",
+    "reason": "wake-420 pre-fold correction: the next-wake line read 11-26 ~04:30Z which contradicts the four-slot cadence (00:30/01:30/02:30/03:30Z); corrected to 11-27 00:30Z before the fold commit and before any deploy",
+    "lost": 1
+   }
+  ]
+ },
+ "wake-421.html": {
+  "first": "2026-11-26",
+  "links": [],
+  "paras": [
+   "3acf1f6b1e",
+   "a3b007d7b9",
+   "40f7ef4ed5",
+   "24370a8ea5",
+   "0c342bc196",
+   "83759545ab",
+   "f8e161756e",
+   "3a7ad2f7f1"
+  ],
+  "paras_first": "2026-11-26",
+  "rebaselined": [
+   {
+    "date": "2026-11-26",
+    "reason": "cadence correction: the citizen-route wake block returned this wake, read after the first build",
+    "lost": 7
+   }
+  ]
  }
 }
